@@ -1,6 +1,13 @@
 DATA WAREHOUSING AND ANALYTICS PROJECT
-Welcome data warehousing and analytics project repository***** This project demonstrates comprehensive data warehousing and analytics solution, from building a warehouse to generating actionable insights. Designed as a portfolio project by implementing standard and industry best practices and data engineering and analytics Notion: https://app.diagrams.net/?src=about#G1RHzhMJCvsCVuiS_r0YTlVmResA---nJv#%7B%22pageId%22%3A%22ENrI8TddiCgyRL0yWyHr%22%7D (draw.io) https://app.diagrams.net/#G1szhCcn2FLO3tU7EvYyCtcYEdmZ4CkTAN#%7B%22pageId%22%3A%221vdfnmvfAi1srglVZDxs%22%7D BRONZE LAYER :https://app.diagrams.net/#G1eIqc0SWZo5L8RWAH4CQF96-m7pKcmV9N#%7B%22pageId%22%3A%22Cbe5rRa6jUTYSwL8uK46%22%7D
+Welcome data warehousing and analytics project repository***** This project demonstrates comprehensive data warehousing and analytics solution, from building a warehouse to generating actionable insights. Designed as a portfolio project by implementing standard and industry best practices and data engineering and analytics Notions:
+==================================================================================================================================================================================================================
+  
+HiGH LEVEL ARCHITECHTURAL DESIGN: https://app.diagrams.net/?src=about#G1RHzhMJCvsCVuiS_r0YTlVmResA---nJv#%7B%22pageId%22%3A%22ENrI8TddiCgyRL0yWyHr%22%7D (draw.io) 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BRONZE LAYER DATAFLOW DIAGRAM :https://app.diagrams.net/#G1eIqc0SWZo5L8RWAH4CQF96-m7pKcmV9N#%7B%22pageId%22%3A%22Cbe5rRa6jUTYSwL8uK46%22%7D
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INTiGRATION DIAGRAM: https://app.diagrams.net/#G1uulaYsZbpi3pyh_pReTsQ_vNiXyJ5gjV#%7B%22pageId%22%3A%224yOj6MV5-AvYVCollSsQ%22%7D
+===================================================================================================================================================================================================================
 
 📖 Project Overview
 This project involves:
